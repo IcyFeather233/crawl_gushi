@@ -83,7 +83,7 @@ def getText(url):
 # 这里放古诗对应的网页就行
 getText("https://so.gushiwen.cn/shiwenv_d963cf7df117.aspx")
 
-结果展示
+# 结果展示
 # 标题：夏日过郑七山斋
 # 作者：杜审言
 # 朝代：唐代
